@@ -5,7 +5,7 @@
   "defalut": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --no-scope-hoist"
   },
   "author": "Saurav Burjwal",
   "license": "ISC",
